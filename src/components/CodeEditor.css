@@ -30,7 +30,6 @@
     /* Ensure line-height matches pre element */
     white-space: pre;
     z-index: 2;
-    margin-left: 0.5%;
     margin-top: 1.7%;
 }
 
@@ -59,3 +58,6 @@
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+/* // margin - left: 0.5 %;
+// margin - top: 1.7 %; */
